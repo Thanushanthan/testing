@@ -16,3 +16,12 @@ C:\Users\Thanushanthan\OneDrive\Desktop\CA\V1.0\V1.0\obj\Debug\V1.0.csprojResolv
 C:\Users\Thanushanthan\OneDrive\Desktop\CA\V1.0\V1.0\obj\Debug\V1._0.Form1.resources
 C:\Users\Thanushanthan\OneDrive\Desktop\CA\V1.0\V1.0\obj\Debug\V1._0.Properties.Resources.resources
 C:\Users\Thanushanthan\OneDrive\Desktop\CA\V1.0\V1.0\obj\Debug\V1.0.csproj.GenerateResource.Cache
+C:\Users\Thanushanthan\OneDrive\Desktop\uu\V1.0\V1.0\bin\Debug\V1.0.exe.config
+C:\Users\Thanushanthan\OneDrive\Desktop\uu\V1.0\V1.0\obj\Debug\V1.0.exe
+C:\Users\Thanushanthan\OneDrive\Desktop\uu\V1.0\V1.0\obj\Debug\V1.0.pdb
+C:\Users\Thanushanthan\OneDrive\Desktop\uu\V1.0\V1.0\bin\Debug\V1.0.exe
+C:\Users\Thanushanthan\OneDrive\Desktop\uu\V1.0\V1.0\bin\Debug\V1.0.pdb
+C:\Users\Thanushanthan\OneDrive\Desktop\uu\V1.0\V1.0\obj\Debug\V1.0.csprojResolveAssemblyReference.cache
+C:\Users\Thanushanthan\OneDrive\Desktop\uu\V1.0\V1.0\obj\Debug\V1._0.Form1.resources
+C:\Users\Thanushanthan\OneDrive\Desktop\uu\V1.0\V1.0\obj\Debug\V1._0.Properties.Resources.resources
+C:\Users\Thanushanthan\OneDrive\Desktop\uu\V1.0\V1.0\obj\Debug\V1.0.csproj.GenerateResource.Cache
